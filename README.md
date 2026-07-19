@@ -60,3 +60,6 @@ This submodule only implements Pollard's rho algorithm and does not handle large
 * Optimize the existing implementation for performance
 ## License
 This submodule is licensed under the MIT License.
+
+---
+**Last updated:** 2026-07-19
