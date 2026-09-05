@@ -25,3 +25,6 @@ All notable changes to this project are documented here.
 
 ### 2026-08-24
 - Minor internal housekeeping and dependency review.
+
+### 2026-09-05
+- Minor internal housekeeping and dependency review.
